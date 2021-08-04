@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marconymous&" alt="marconymous" /></p>
 
-<figure><embed src="https://wakatime.com/share/@518ff4c2-040a-4c11-be8f-5a89c910a69f/7840ca0f-3694-4da6-845c-97833eea09b9.svg"></embed></figure>
+![Languages over All Time](https://wakatime.com/share/@518ff4c2-040a-4c11-be8f-5a89c910a69f/7840ca0f-3694-4da6-845c-97833eea09b9.svg)
