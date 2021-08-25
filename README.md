@@ -22,5 +22,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marconymous&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marconymous" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marconymous&show_icons=true&locale=en&theme=dracula" alt="marconymous" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marconymous&show_icons=true&locale=en&theme=dracula" alt="marconymous" />
 </p>
