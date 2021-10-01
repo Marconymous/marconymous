@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fuchsmarcandri" target="blank"><img src="https://img.shields.io/twitter/follow/fuchsmarcandri?logo=twitter&style=for-the-badge" alt="fuchsmarcandri" /></a> </p>
 
-- 🌱 I know: **Java, Kotlin, JavaScript (TypeScript), SQL, PHP and Lua**
-- 💬 Ask me about **Java, Minecraft Plugins**
 - 📫 How to reach me **marconymous@outlook.com**
-- ⚡ Fun fact **I hate people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
